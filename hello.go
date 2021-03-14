@@ -1,11 +1,13 @@
 package main
 
-import "fmt"
+// import "fmt"
 
 func Hello() string {
 	return "Hello, world"
 }
 
-func main() {
-	fmt.Println(Hello())
-}
+// can't have two mains
+
+// func main() {
+// 	fmt.Println(Hello())
+// }
